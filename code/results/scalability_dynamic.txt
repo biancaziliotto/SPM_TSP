@@ -1,0 +1,100 @@
+population size : 500
+nw : 1
+elapsed time : 307494499
+scalability : 1
+initialization time : 842414
+mean serial : 20423.2
+mean overheads : 6617.3
+mean imbalance : 0
+nw : 2
+elapsed time : 151609080
+scalability : 2.02821
+initialization time : 413153
+mean serial : 17993
+mean overheads : 5310.15
+mean imbalance : 43953.4
+nw : 4
+elapsed time : 76971368
+scalability : 3.99492
+initialization time : 366833
+mean serial : 16061.8
+mean overheads : 4182.25
+mean imbalance : 64085.2
+nw : 8
+elapsed time : 42374251
+scalability : 7.25664
+initialization time : 346123
+mean serial : 19364.6
+mean overheads : 7051.25
+mean imbalance : 80398.9
+nw : 16
+elapsed time : 22533834
+scalability : 13.6459
+initialization time : 369750
+mean serial : 14787.2
+mean overheads : 6121.7
+mean imbalance : 111917
+nw : 32
+elapsed time : 13887522
+scalability : 22.1418
+initialization time : 364964
+mean serial : 19913.7
+mean overheads : 6110.35
+mean imbalance : 119090
+nw : 64
+elapsed time : 10558440
+scalability : 29.1231
+initialization time : 409753
+mean serial : 12045.6
+mean overheads : 10184
+mean imbalance : 141619
+population size : 5000
+nw : 1
+elapsed time : 3064096482
+scalability : 1
+initialization time : 3446308
+mean serial : 201761
+mean overheads : 73775.8
+mean imbalance : 0
+nw : 2
+elapsed time : 1531245700
+scalability : 2.00105
+initialization time : 3100225
+mean serial : 202463
+mean overheads : 74616.1
+mean imbalance : 36945.7
+nw : 4
+elapsed time : 774579053
+scalability : 3.95582
+initialization time : 3108205
+mean serial : 208118
+mean overheads : 75919.8
+mean imbalance : 65416.6
+nw : 8
+elapsed time : 401098395
+scalability : 7.63926
+initialization time : 3088899
+mean serial : 219791
+mean overheads : 121039
+mean imbalance : 94468.6
+nw : 16
+elapsed time : 206691979
+scalability : 14.8245
+initialization time : 3390652
+mean serial : 226149
+mean overheads : 130619
+mean imbalance : 106484
+nw : 32
+elapsed time : 112513577
+scalability : 27.2331
+initialization time : 3181948
+mean serial : 190698
+mean overheads : 109320
+mean imbalance : 116469
+nw : 64
+elapsed time : 82656660
+scalability : 37.0702
+initialization time : 3246692
+mean serial : 187406
+mean overheads : 58829.4
+mean imbalance : 143370
